@@ -1,0 +1,17 @@
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_API\bin\Debug\netcoreapp2.2\DKBS_API.deps.json
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_API\bin\Debug\netcoreapp2.2\DKBS_API.runtimeconfig.json
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_API\bin\Debug\netcoreapp2.2\DKBS_API.runtimeconfig.dev.json
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_API\bin\Debug\netcoreapp2.2\DKBS_API.dll
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_API\bin\Debug\netcoreapp2.2\DKBS_API.pdb
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_API\bin\Debug\netcoreapp2.2\ReposirotyPatternDemo.dll
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_API\bin\Debug\netcoreapp2.2\ReposirotyPatternDemo.pdb
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_API\obj\Debug\netcoreapp2.2\DKBS_API.csprojAssemblyReference.cache
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_API\obj\Debug\netcoreapp2.2\DKBS_API.csproj.CoreCompileInputs.cache
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_API\obj\Debug\netcoreapp2.2\DKBS_API.RazorAssemblyInfo.cache
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_API\obj\Debug\netcoreapp2.2\DKBS_API.RazorAssemblyInfo.cs
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_API\obj\Debug\netcoreapp2.2\DKBS_API.AssemblyInfoInputs.cache
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_API\obj\Debug\netcoreapp2.2\DKBS_API.AssemblyInfo.cs
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_API\obj\Debug\netcoreapp2.2\DKBS_API.RazorTargetAssemblyInfo.cache
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_API\obj\Debug\netcoreapp2.2\DKBS_API.csproj.CopyComplete
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_API\obj\Debug\netcoreapp2.2\DKBS_API.dll
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_API\obj\Debug\netcoreapp2.2\DKBS_API.pdb

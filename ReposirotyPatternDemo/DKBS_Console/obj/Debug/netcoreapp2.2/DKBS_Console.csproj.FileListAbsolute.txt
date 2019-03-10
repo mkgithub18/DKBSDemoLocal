@@ -1,0 +1,14 @@
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_Console\bin\Debug\netcoreapp2.2\DKBS_Console.deps.json
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_Console\bin\Debug\netcoreapp2.2\DKBS_Console.runtimeconfig.json
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_Console\bin\Debug\netcoreapp2.2\DKBS_Console.runtimeconfig.dev.json
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_Console\bin\Debug\netcoreapp2.2\DKBS_Console.dll
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_Console\bin\Debug\netcoreapp2.2\DKBS_Console.pdb
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_Console\bin\Debug\netcoreapp2.2\ReposirotyPatternDemo.dll
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_Console\bin\Debug\netcoreapp2.2\ReposirotyPatternDemo.pdb
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_Console\obj\Debug\netcoreapp2.2\DKBS_Console.csprojAssemblyReference.cache
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_Console\obj\Debug\netcoreapp2.2\DKBS_Console.csproj.CoreCompileInputs.cache
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_Console\obj\Debug\netcoreapp2.2\DKBS_Console.AssemblyInfoInputs.cache
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_Console\obj\Debug\netcoreapp2.2\DKBS_Console.AssemblyInfo.cs
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_Console\obj\Debug\netcoreapp2.2\DKBS_Console.csproj.CopyComplete
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_Console\obj\Debug\netcoreapp2.2\DKBS_Console.dll
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\DKBS_Console\obj\Debug\netcoreapp2.2\DKBS_Console.pdb

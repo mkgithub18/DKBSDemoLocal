@@ -1,0 +1,10 @@
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\ReposirotyPatternDemo\bin\Debug\netcoreapp2.2\ReposirotyPatternDemo.deps.json
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\ReposirotyPatternDemo\bin\Debug\netcoreapp2.2\ReposirotyPatternDemo.runtimeconfig.json
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\ReposirotyPatternDemo\bin\Debug\netcoreapp2.2\ReposirotyPatternDemo.runtimeconfig.dev.json
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\ReposirotyPatternDemo\bin\Debug\netcoreapp2.2\ReposirotyPatternDemo.dll
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\ReposirotyPatternDemo\bin\Debug\netcoreapp2.2\ReposirotyPatternDemo.pdb
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\ReposirotyPatternDemo\obj\Debug\netcoreapp2.2\ReposirotyPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\ReposirotyPatternDemo\obj\Debug\netcoreapp2.2\ReposirotyPatternDemo.AssemblyInfoInputs.cache
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\ReposirotyPatternDemo\obj\Debug\netcoreapp2.2\ReposirotyPatternDemo.AssemblyInfo.cs
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\ReposirotyPatternDemo\obj\Debug\netcoreapp2.2\ReposirotyPatternDemo.dll
+C:\Users\manoj_kumar57\source\repos\ReposirotyPatternDemo\ReposirotyPatternDemo\obj\Debug\netcoreapp2.2\ReposirotyPatternDemo.pdb
